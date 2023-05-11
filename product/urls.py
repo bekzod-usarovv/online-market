@@ -6,5 +6,3 @@ router = SimpleRouter()
 router.register('categories', CategoryViewSet)
 router.register('products', ProductViewSet)
 
-urlpatterns = [
-]
